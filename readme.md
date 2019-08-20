@@ -13,4 +13,3 @@ This project is based on / uses code from the original Windows Login Project fro
 http://amal.net
 
 Thank you to Eric Jastram for compilation and editing support.
-# WindowsLoginKey
