@@ -14,4 +14,3 @@ http://amal.net
 
 Thank you to Eric Jastram for compilation and editing support.
 # WindowsLoginKey
-# WindowsLoginKey
