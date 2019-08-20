@@ -3,3 +3,4 @@
 
 # Don't track these folders
 .vs/
+x64/
