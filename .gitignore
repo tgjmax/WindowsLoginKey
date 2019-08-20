@@ -1,0 +1,6 @@
+# Don't track these files
+*.opendb
+
+# Don't track these folders
+.vs/
+x64/
